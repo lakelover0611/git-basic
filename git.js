@@ -8,3 +8,5 @@ ejkfl;
 aj;
 
 const MAX = 100;
+
+const bye = "good bye";
